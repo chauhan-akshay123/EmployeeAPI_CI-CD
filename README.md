@@ -1,7 +1,4 @@
-# Simple express demo
+**Employee Details API**
 
-> Express: fast, unopinionated, minimalist web framework for Node.js
+A RESTful API for managing employee information, built with Node.js and Express. The API is tested using **Jest** for automated unit and integration testing, ensuring reliable functionality. Integrated with a **CI/CD pipeline** for continuous testing and automated deployment on **Vercel**, providing seamless updates and live deployments.
 
-This project shows a simple express server serving a single HTML page and using `express.static` to serve static files.
-
-Check out the [express documentation](https://expressjs.com/) for more information.
